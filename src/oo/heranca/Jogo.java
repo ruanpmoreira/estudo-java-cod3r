@@ -9,10 +9,10 @@ public class Jogo {
 		j1.x = 10;
 		j1.y = 10;
 		
-		j1.andar(Direcao.NORTE);
-		j1.andar(Direcao.NORTE);
-		j1.andar(Direcao.LESTE);
-		j1.andar(Direcao.NORTE);
+//		j1.andar(Direcao.NORTE);
+//		j1.andar(Direcao.NORTE);
+//		j1.andar(Direcao.LESTE);
+//		j1.andar(Direcao.NORTE);
 		
 		System.out.println("x: " + j1.x);
 		System.out.println("y: " + j1.y);
